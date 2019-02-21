@@ -1,16 +1,5 @@
 # TOAST 사용자 가이드 페이지
 
-# 차례
-
-* 설계
-* 백앤드
-* 프론트앤드 (가이드 페이지)
-* Log & Crash
-* 프론트앤드 (관리자 페이지)
-* 빌드 및 배포
-* 시연
-* 소감
-
 ## Github Repository
 
 https://github.com/ekb2011/TOAST_GuidePage.git
