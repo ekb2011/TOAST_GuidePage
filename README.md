@@ -20,7 +20,6 @@ https://github.com/ekb2011/TOAST_GuidePage.git
 ### 인프라
 * 계정 명 - irteam
 * WEB Server - nginx 1.4.0
-* Platform - node v11.6.0
 * npm 6.5.0
 
 ## DB
